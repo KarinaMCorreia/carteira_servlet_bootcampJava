@@ -4,8 +4,8 @@
 
 ### Features
 
-- [x] Cadastro 
-- [x] Listagem 
+- [x] Cadastro de transação
+- [x] Listagem de transações
 
 ### Pré-requisitos
 
@@ -15,7 +15,7 @@ Além disto é bom ter um editor para trabalhar com o código de sua preferênci
 
 
 ### Criar Database e Tabela
-$ database  / tabela 
+$ database carteira / tabela transacoes
 
 
 ### 🛠 Tecnologias
