@@ -1,20 +1,33 @@
-<div>
- <h2>API Rest e Spring Boot com o Bootcamp Java da Alura</h2>
-</div>
 
-><strong>Bootcamp</strong> está dividido em seis módulos, nos quais será ensinado a criar uma <strong>API Rest</strong> do zero, passando pelo desenvolvimento de funcionalidades com regras de negócio e validações, até o deploy em um ambiente de produção.
->Vamos explorar sobre o Spring Boot e vários de seus módulos para a criação de uma API Rest, utilizando também diversas outras bibliotecas e especificações, tais como: JPA, ModelMapper, Lombok, Bean Validation, Git, Swagger, JUnit e Docker, para desenvolver as funcionalidades que representam as necessidades dos usuários do nosso projeto.
+# Alura - Bootcamp Módulo 01
 
-><strong>Módulo 01</strong>: Java, Orientação a Objetos e Web
 
-><strong>Módulo 02</strong>: APis Rest e Spint Boot
+### Features
 
-><strong>Módulo 03</strong>: Controle de versão e persistência com JPA
+- [x] Cadastro 
+- [x] Listagem 
 
-><strong>Módulo 04</strong>: Validação, testes e documentação
+### Pré-requisitos
 
-><strong>Módulo 05</strong>: Segurança na API
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Java 8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html), My SQL, Servidor [Tomcat](http://tomcat.apache.org/) e [JSTL](https://repo1.maven.org/maven2/javax/servlet/jstl/1.2/jstl-1.2.jar).
+Além disto é bom ter um editor para trabalhar com o código de sua preferência.
 
-><strong>Módulo 06</strong>: Docker, deply e CI/CD
+
+### Criar Database e Tabela
+$ database  / tabela 
+
+
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Java 8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html)
+- [Servlet](https://www.alura.com.br/artigos/criando-uma-aplicacao-java-web-com-servlet?gclid=Cj0KCQjw1dGJBhD4ARIsANb6OdkHm-ssiGlfi5V1QNeQDXkURvLbCZrbjDlClWafXh43_OVmOc0iSLsaAodNEALw_wcB)
+- [JDBC](https://www.alura.com.br/artigos/conhecendo-o-jdbc?gclid=Cj0KCQjw1dGJBhD4ARIsANb6OdlvuaSoSBqxyAMPwX4NKDc3zBGxAdh8UEacxn7A3eGnr9nJYg4pRdEaAqOtEALw_wcB)
+- [JSP](https://www.alura.com.br/artigos/javaserver-pages?gclid=Cj0KCQjw1dGJBhD4ARIsANb6OdkwklSGymZCHFQPDMwZ_V3Z2xej8z9KzHdrk853kBLWctcfbgfdop4aAkxfEALw_wcB)
+- [JSTL](https://www.caelum.com.br/apostila-java-web/usando-taglibs#taglibs)
+- [Bootstrap](https://getbootstrap.com/)
+
   
   
